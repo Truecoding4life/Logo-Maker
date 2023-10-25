@@ -8,13 +8,27 @@
 [Demonstration of the Application](./examples/Logo%20Generator%20Demonstration%20copy.mp4)
 
 ## Description 
-This logo designer will create a svg file with a logo that has a text and a shape of triangle, circle or square.
+You can pick your favorite own color, shape and text then this application will make a svg file out of those
+choices and save it to the example file folder. 
 
-## Table of contents
+## Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contribution](#contribution)
 * [Test](#testing)
+
+## Usage
+1. Open the Terminal and navigate to this directory
+    
+        ./Logo-Maker/lib/index.js
+2. Then type to install the require npm 
+    
+        npm install
+3. Once npm install you can start the application with
+
+        node index.js
+3. Answer question for text, color and shape
+4. Image should be saved to examples directories   
 
 
 ## Installation
@@ -27,20 +41,23 @@ This logo designer will create a svg file with a logo that has a text and a shap
   
   
   
-## Usage
-1. Open the Terminal and type  
-    **"./Logo-Maker/lib/index.js"**
-2. Answer question for text, color and shape
-3. Image should be saved to examples directories    
+ 
   
-  
+## Technologies Used
+1. Javascript
+2. Node JS
+2. NPM Inquirer
+3. NPM Jest
+4. SVG
+
 ## Testing
 Using Jest npm I was able to perform multiple tests on each shape, first I created a
 parent class Shape and create a test for that class, then create other class 
 extend from Shape and test thoroughly.
   
   
-  
+## Contributor
+This Application is made by  Jay's Studio © 
 
 #### This README was written based on the GOOD README Guide
 
