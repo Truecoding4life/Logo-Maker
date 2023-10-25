@@ -1,15 +1,16 @@
-[![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/) 
 
+[![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/) 
 # SVG Logo Generator
 
 
 [Github Repository](https://github.com/Truecoding4life/Logo-Maker)
 
+[Demonstration of the Application](./examples/Logo%20Generator%20Demonstration%20copy.mp4)
 
 ## Description 
 This logo designer will create a svg file with a logo that has a text and a shape of triangle, circle or square.
 
-## Table of Contents
+## Table of contents
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contribution](#contribution)
